@@ -1,2 +1,0 @@
-# Nakadia
-solution Agency
